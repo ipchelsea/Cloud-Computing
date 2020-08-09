@@ -27,7 +27,7 @@ the cloud. You will use the cloud storage APIS to do this.
 # Lambda
 
 # Purpose
-This programming assignment will introduce the student to using multiple services in the cloud
+This program will introduce the student to using multiple services in the cloud
 working together. In particular the student will use S3 or Blob Storage, DynamoDB or Azure
 Tables or CosmosDB, and website technology which allows server side code (ASP.Net, MVC,
 etc…).
