@@ -9,7 +9,7 @@ students with HTTP and programmatically using it to access the web. Of course, t
 of the access to the Cloud is done using APIs and development environments which target
 specific services, these are built on HTTP.
 
-Problem Statement
+Problem Statement 
 Create an application which takes two arguments:
 1) A URL as a starting point
 2) The number of hops from that URL (NumHops)
@@ -26,13 +26,13 @@ the cloud. You will use the cloud storage APIS to do this.
 
 # Lambda
 
-# Purpose
+Purpose
 This program will introduce the student to using multiple services in the cloud
 working together. In particular the student will use S3 or Blob Storage, DynamoDB or Azure
 Tables or CosmosDB, and website technology which allows server side code (ASP.Net, MVC,
 etc…).
 
-# Problem Statement / Overview
+Problem Statement / Overview
 Create and host a Website which has three sections:
 1) A button call Load Data
 2) A button call Clear Data
