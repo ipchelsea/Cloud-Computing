@@ -24,15 +24,15 @@ Problem Statement
 Create an application which recursively traverses the files of a directory and makes a backup to
 the cloud. You will use the cloud storage APIS to do this.
 
-#Lambda
+# Lambda
 
-#Purpose
+# Purpose
 This programming assignment will introduce the student to using multiple services in the cloud
 working together. In particular the student will use S3 or Blob Storage, DynamoDB or Azure
 Tables or CosmosDB, and website technology which allows server side code (ASP.Net, MVC,
 etc…).
 
-#Problem Statement / Overview
+# Problem Statement / Overview
 Create and host a Website which has three sections:
 1) A button call Load Data
 2) A button call Clear Data
