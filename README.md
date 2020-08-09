@@ -1,6 +1,6 @@
 # Cloud-Computing
 
-Backup Cloud
+# Backup Cloud
 
 Purpose
 The programmable Web and cloud is built on HTTP. In this lab we will utilize HTTP
@@ -15,7 +15,7 @@ Create an application which takes two arguments:
 2) The number of hops from that URL (NumHops)
 
 
-Spider Crawler
+# Spider Crawler
 
 Purpose
 This exercise will introduce the student to using cloud storage programmable APIS.
